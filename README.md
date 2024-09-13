@@ -6,7 +6,10 @@ OK NOW: a couple of scraping tools I developed for my friends who want to know w
 These tools help you to find out whether you or anyone you know:
 
 • follows people with an OF
+
 • follows accounts that do not follow them back
+
 • follows certain hashtags (interchange the content you are looking for)
+
 
 If you have any other needs, feel free to message me, I would love to hear the lore.
