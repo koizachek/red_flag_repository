@@ -10,6 +10,3 @@ These tools help you to find out whether you or anyone you know:
 • follows accounts that do not follow them back
 
 • follows certain hashtags (interchange the content you are looking for)
-
-
-If you have any other needs, feel free to message me, I would love to hear the lore.
